@@ -4,7 +4,7 @@
 ## Table of Contents
 Bold
 
-Italics
+Italics 
 
 Fixed Font
 
@@ -81,7 +81,7 @@ The rules regarding commas for in-sentence lists are as follows:
 
 - Do not use a comma before "and" and "or" if your list contains *only two items*. For example: Any new organization needs to invest in good infraestructure and hiring great talent.
 
-- Use a comma before "and" and "or" when your list comprises three or more items. For example: A "Pod" comprimses a Project Manager, a Technical Writer, Engineers, and UX designers.
+- Use a comma before "and" and "or" when your list comprises *three or more items*. For example: A "Pod" comprimses a Project Manager, a Technical Writer, Engineers, and UX designers.
 
 ## Numbers
 
