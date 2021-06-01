@@ -2,7 +2,7 @@
 ## Technical Writing Academy - May 2021
 
 ## Table of Contents
-[Bold] (## Bold)
+Bold
 
 Italics
 
@@ -34,20 +34,20 @@ Enter your IP address in the **IP Address** field.
 
 Use italics to emphasize a word or group of words. For example:
 
-*At least* two reviews are required before you check in your code.
+- *At least* two reviews are required before you check in your code.
 
-You must *not* enter without your ID card.
+- You must *not* enter without your ID card.
 
-IMPORTANT: Use this style sparingly to avoid diluting its strength.
+> **IMPORTANT**: Use this style sparingly to avoid diluting its strength.
 
 ## Fixed Font
 
 Use a fixed font to highlight:
-Commands or pieces of code. For example:
+- **Commands or pieces of code**. For example:
 
-Run the npm install text-cli command to install the utility.
+Run the `npm install text-cli` command to install the utility.
 
-File or folder names. For example:
+- **File or folder names**. For example:
 
 Read the README.md file before you proceed.
 
@@ -64,27 +64,35 @@ Never use the following abbreviations in a formal document:
 ## Capitalization
 
 Use standard capitalization rules. Also, keep in mind the following:
-The first word after a colon (:) is always capitalized.
-Every heading, table caption, figure caption, column name, or a callout in a figure or table must be in the title case.
+
+- The first word after a colon (:) is always capitalized.
+
+- Every heading, table caption, figure caption, column name, or a callout in a figure or table must be in the title case.
 
 ## Acronyms
 
 Always define an acronym when you are using it for the first time.
+
 For exmaple: This section specifies the terms used in a Product Requirement Document (PRD). The most often used terms in a PRD include...
 
 ## Commas in Lists
 
 The rules regarding commas for in-sentence lists are as follows:
-Do not use a comma before "and" and "or" if your list contains only two items. For example: Any new organization needs to invest in good infraestructure and hiring great talent.
-Use a comma before "and" and "or" when your list comprises three or more items. For example: A "Pod" comprimses a Project Manager, a Technical Writer, Engineers, and UX designers.
+
+- Do not use a comma before "and" and "or" if your list contains *only two items*. For example: Any new organization needs to invest in good infraestructure and hiring great talent.
+
+- Use a comma before "and" and "or" when your list comprises three or more items. For example: A "Pod" comprimses a Project Manager, a Technical Writer, Engineers, and UX designers.
 
 ## Numbers
 
 Remember these rules about numbers:
-Spell out numbers that are less than 10 (0 -9). For example: I have seven aunts.
-Use numeral for 10 and higher.
+
+- Spell out numbers that are less than 10 (0 -9). For example: I have seven aunts.
+
+- Use numeral for 10 and higher.
 For example: This hub has 32 ports.
-Use a comma to make it easier to read numbers higher than 999.
+
+- Use a comma to make it easier to read numbers higher than 999.
 For example: The network supports up to 10,000 connections.
 
 ## Contractions
