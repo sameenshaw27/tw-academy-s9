@@ -2,25 +2,25 @@
 ## Technical Writing Academy - May 2021
 
 ## Table of Contents
-Bold
+[Bold] (#bold)
 
-Italics 
+[Italics] (#italics) 
 
-Fixed Font
+[Fixed Font] (#fixed-font)
 
-Abbreviations
+[Abbreviations] (#abbreviations)
 
-Capitalization
+[Capitalization] (#capitalization)
 
-Acronyms
+[Acronyms] (#acronyms)
 
-Commas in Lists
+[Commas in Lists] (#commas-in-lists)
 
-Numbers
+[Numbers] (#numbers)
 
-Contractions
+[Contractions] (#contractions)
 
-Apostrophes
+[Apostrophes] (#apostrophes)
 
 ## Bold
 
