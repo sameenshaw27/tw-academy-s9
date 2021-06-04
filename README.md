@@ -2,11 +2,11 @@
 ## Technical Writing Academy - May 2021
 
 ## Table of Contents
-[Bold] (#bold)
+[Bold](#bold)
 
-[Italics] (#italics) 
+[Italics](#italics) 
 
-[Fixed Font] (#fixed-font)
+[Fixed Font](#fixed-font)
 
 [Abbreviations] (#abbreviations)
 
