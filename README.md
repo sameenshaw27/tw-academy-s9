@@ -8,19 +8,19 @@
 
 [Fixed Font](#fixed-font)
 
-[Abbreviations] (#abbreviations)
+[Abbreviations](#abbreviations)
 
-[Capitalization] (#capitalization)
+[Capitalization](#capitalization)
 
-[Acronyms] (#acronyms)
+[Acronyms](#acronyms)
 
-[Commas in Lists] (#commas-in-lists)
+[Commas in Lists](#commas-in-lists)
 
-[Numbers] (#numbers)
+[Numbers](#numbers)
 
-[Contractions] (#contractions)
+[Contractions](#contractions)
 
-[Apostrophes] (#apostrophes)
+[Apostrophes](#apostrophes)
 
 ## Bold
 
